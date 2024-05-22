@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Sushil from Chennai, Tamil Nadu<br><br>- 📚 I'm currently learning MLOps <br><br> ✨WordPress web developer</p>
+<p align="left">I'm Sushil from Chennai, Tamil Nadu<br><br>- 📚 I'm currently learning MLOps <br><br>- ✨WordPress web developer</p>
 
 
 ###
