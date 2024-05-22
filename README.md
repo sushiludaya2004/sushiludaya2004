@@ -1,4 +1,5 @@
 <h1 align="center">Hello👋</h1>
+<p>CONSISTENCY . DISCIPLINE . FOCUS</p>
 
 ###
 
