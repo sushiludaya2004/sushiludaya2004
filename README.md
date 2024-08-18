@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋</h1>
-<p align="center">✨ CONSISTENCY . DISCIPLINE . FOCUS ✨</p>
+<p align="center">✨ TRUST THE PROCESS ✨</p>
 
 ###
 
@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I'm Sushil from Chennai, Tamil Nadu<br><br>- 📚 I'm currently learning MLOps <br><br></p>
+<p align="left">I'm Sushil from Chennai, Tamil Nadu<br><br>- 📚 I'm currently learning WEB DEV and MLOps <br><br></p>
 
 
 ###
