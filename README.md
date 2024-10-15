@@ -1,5 +1,4 @@
 <h1 align="center">Hello👋</h1>
-<p align="center">✨ TRUST THE PROCESS ✨</p>
 
 ###
 
@@ -17,10 +16,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
