@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Sushil from Chennai, Tamil Nadu<br><br>- 📚 I'm currently into MLOps <br><br></p>
+<p align="left">I'm Sushil from Chennai, Tamil Nadu<br><br>- 📚 I'm currently exploring MLOps <br><br></p>
 
 
 
