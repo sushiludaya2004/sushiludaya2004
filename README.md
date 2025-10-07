@@ -29,16 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushiludaya2004&show_icons=true&theme=radical" alt="Sushil Udaya's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushiludaya2004&theme=radical" alt="Sushil Udaya's GitHub Streak"/>
-</div>
-
----
-
 ### 🌎 Connect with Me
 
 - 🌐 [Personal Website](https://sushiludaya-portfolio.web.app/)
