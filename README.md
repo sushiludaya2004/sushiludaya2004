@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 💻 **Profession:** Software Engineer
-- 🛠️ **Tech Stack:** Java, Spring Boot, React JS, TailwindCSS, Machine Learning
+- 🛠️ **Tech Stack:**  C++ Developer
 - 🎯 **Focus:** Building SaaS products — build, sell, earn
 - 🌐 **Portfolio:** [sushiludaya-portfolio.web.app](https://sushiludaya-portfolio.web.app/)
 
